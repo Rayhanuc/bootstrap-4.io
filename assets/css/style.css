@@ -1,0 +1,12 @@
+a {
+    margin-left: 100px;
+    margin-top: 100px;
+    display: inline-block;
+    padding: 25px 40px;
+    font-weight: 700;
+    border-radius: 50px;
+}
+
+.space {
+  margin-top: 50px;
+}
